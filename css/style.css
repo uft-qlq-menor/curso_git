@@ -10,7 +10,7 @@ Tabla de índice
 ** -General  CSS
 ** -Buttons
 ** -Effects img 
-** -Correción / Librerias 
+** -Corrección / Librerias 
 ** -Footer
 ** -Video wave Style
 ** -Go Top Style
@@ -1959,7 +1959,7 @@ Main Banner Two Area CSS
   left: 0;
   width: 100%;
   height: 100%;
-  background: #28a745!important;
+  background: #526bc4!important;
   opacity: .9;
   z-index: -1;
 }
@@ -2030,3 +2030,8 @@ Main Banner Two Area CSS
   display: table!important;
 }
 
+/* Corrección / Librerias 
+====================================*/
+.card-header {
+  background-color: #fff;
+}
